@@ -7,3 +7,22 @@ Purpose: The purpose of this test plan is to define the testing approach and act
 Overview: The online app allows users to browse, select, purchase, and schedule delivery of chocolate items through their mobile devices. 
 
 Scope of Testing: This test plan covers functional, usability, performance, security, and compatibility testing of the online chocolate store shopping app. 
+
+2. Test Strategy: 
+
+Testing Approach: Combination of manual and automated testing. 
+
+Types of Testing: 
+
+- Functional Testing 
+
+- Usability Testing 
+
+- Performance Testing 
+
+- Security Testing 
+
+- Compatibility Testing (Devices and Platforms) 
+
+
+Test Coverage: Targeted devices include iOS and Android smartphones and tablets. 
