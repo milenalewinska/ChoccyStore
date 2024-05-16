@@ -26,3 +26,19 @@ Types of Testing:
 
 
 Test Coverage: Targeted devices include iOS and Android smartphones and tablets. 
+
+3. Test Environment 
+
+Devices: 
+
+- iPhone (iOS 14+) 
+
+- Samsung Galaxy series (Android 9+) 
+
+Operating Systems: 
+
+- iOS 14+ 
+
+- Android 9+ 
+
+Network Conditions: Testing under various network conditions (Wi-Fi, 4G/5G). 
