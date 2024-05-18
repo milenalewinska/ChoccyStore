@@ -8,6 +8,7 @@ Overview: The online app allows users to browse, select, purchase, and schedule 
 
 Scope of Testing: This test plan covers functional, usability, performance, security, and compatibility testing of the online chocolate store shopping app. 
 
+
 2. Test Strategy: 
 
 Testing Approach: Combination of manual and automated testing. 
@@ -27,6 +28,7 @@ Types of Testing:
 
 Test Coverage: Targeted devices include iOS and Android smartphones and tablets. 
 
+
 3. Test Environment 
 
 Devices: 
@@ -41,12 +43,27 @@ Operating Systems:
 
 - Android 9+ 
 
-Network Conditions: Testing under various network conditions (Wi-Fi, 4G/5G). 
+Network Conditions: Testing under various network conditions (Wi-Fi, 4G/5G).
+
 
 4. Test Deliverables 
 
-Detailed Test Cases 
+- Detailed Test Cases 
 
-Test Execution Reports 
+- Test Execution Reports 
 
-Defect Reports 
+- Defect Reports 
+
+
+5. Testing Tools 
+
+Mobile Testing Tools: 
+
+- Xcode and XCTest for iOS 
+
+- Android Studio and Espresso for Android 
+
+Automation Tools: Appium for cross-platform automation 
+
+- Bug Tracking Tool: Trello for defect management 
+
