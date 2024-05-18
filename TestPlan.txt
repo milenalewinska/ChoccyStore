@@ -42,3 +42,11 @@ Operating Systems:
 - Android 9+ 
 
 Network Conditions: Testing under various network conditions (Wi-Fi, 4G/5G). 
+
+4. Test Deliverables 
+
+Detailed Test Cases 
+
+Test Execution Reports 
+
+Defect Reports 
