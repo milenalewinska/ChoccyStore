@@ -9,7 +9,7 @@ Overview: The online app allows users to browse, select, purchase, and schedule 
 Scope of Testing: This test plan covers functional, usability, performance, security, and compatibility testing of the online chocolate store shopping app. 
 
 
-2. Test Strategy: 
+2. Test Strategy
 
 Testing Approach: Combination of manual and automated testing. 
 
@@ -67,3 +67,25 @@ Automation Tools: Appium for cross-platform automation
 
 - Bug Tracking Tool: Trello for defect management 
 
+
+6. Test Schedule 
+
+Phases: 
+
+- Planning and Preparation 
+
+- Test Case Development 
+
+- Test Execution 
+
+- Defect Reporting and Retesting 
+
+- Test Summary and Closure 
+
+Milestones: 
+
+- Completion of Test Case Development 
+
+- Completion of Test Execution 
+
+- Resolution of Critical Defects 
