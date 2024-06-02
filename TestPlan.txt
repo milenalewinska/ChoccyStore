@@ -92,3 +92,20 @@ Milestones:
 
 
 7. Test Cases
+
+- Installation 
+
+- User Registration/Login 
+
+- Browse Categories and Products 
+
+- Add/Remove Items to/from Cart 
+
+- Place Order and Checkout 
+
+- View Order History and Status 
+
+- Manage User Profile 
+
+- Behavior with an interruption like a call, SMS alerts, and other application notifications
+
