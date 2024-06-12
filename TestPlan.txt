@@ -93,6 +93,8 @@ Milestones:
 
 7. Test Cases
 
+a. Functional Testing: 
+
 - Installation 
 
 - User Registration/Login 
