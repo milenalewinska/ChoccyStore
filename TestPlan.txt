@@ -111,3 +111,11 @@ a. Functional Testing:
 
 - Behavior with an interruption like a call, SMS alerts, and other application notifications
 
+
+b. Usability Testing: 
+
+- Evaluate UI/UX design for ease of use and navigation. 
+
+- Test accessibility features (font size, color contrast). 
+
+- Verify responsive design on different screen sizes. 
