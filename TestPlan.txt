@@ -121,3 +121,10 @@ b. Usability Testing:
 - Verify responsive design on different screen sizes. 
 
 
+c. Performance Testing: 
+
+Measure app response time for key actions (search, add to cart, checkout). 
+
+Monitor memory and CPU usage during usage. 
+
+Conduct load testing to simulate multiple concurrent users. 
