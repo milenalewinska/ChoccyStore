@@ -129,6 +129,7 @@ Monitor memory and CPU usage during usage.
 
 Conduct load testing to simulate multiple concurrent users. 
 
+
 d. Security Testing: 
 
 Verify user authentication and authorization mechanisms. 
@@ -136,3 +137,10 @@ Verify user authentication and authorization mechanisms.
 Test data encryption during transmission and storage. 
 
 Check for vulnerabilities such as SQL injection and cross-site scripting (XSS). 
+
+
+e. Compatibility Testing: 
+
+Test app functionality on different devices and OS versions. 
+
+Ensure compatibility with popular mobile browsers (Safari, Chrome). 
