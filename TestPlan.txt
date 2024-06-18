@@ -144,3 +144,10 @@ e. Compatibility Testing:
 Test app functionality on different devices and OS versions. 
 
 Ensure compatibility with popular mobile browsers (Safari, Chrome). 
+
+
+8. Risks and Mitigation 
+
+Identify potential risks such as payment processing failures, inventory sync issues, or performance bottlenecks. 
+
+Define risk mitigation strategies (e.g., frequent performance monitoring, secure payment gateway integration). 
