@@ -1,6 +1,6 @@
 Mobile Application Test Plan: Online ‘Choccy Store’
 
-1. Introduction 
+1. Introduction
 
 Purpose: The purpose of this test plan is to define the testing approach and activities for the online ‘Chocolate Store’ shopping mobile application. 
 
@@ -29,7 +29,7 @@ Types of Testing:
 Test Coverage: Targeted devices include iOS and Android smartphones and tablets. 
 
 
-3. Test Environment 
+3. Test Environment
 
 Devices: 
 
@@ -112,7 +112,7 @@ a. Functional Testing:
 - Behavior with an interruption like a call, SMS alerts, and other application notifications
 
 
-b. Usability Testing: 
+b. Usability Testing
 
 - Evaluate UI/UX design for ease of use and navigation. 
 
@@ -121,7 +121,7 @@ b. Usability Testing:
 - Verify responsive design on different screen sizes. 
 
 
-c. Performance Testing: 
+c. Performance Testing
 
 Measure app response time for key actions (search, add to cart, checkout). 
 
@@ -139,7 +139,7 @@ Test data encryption during transmission and storage.
 Check for vulnerabilities such as SQL injection and cross-site scripting (XSS). 
 
 
-e. Compatibility Testing: 
+e. Compatibility Testing
 
 Test app functionality on different devices and OS versions. 
 
