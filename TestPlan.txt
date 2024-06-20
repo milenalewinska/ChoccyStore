@@ -150,4 +150,13 @@ Ensure compatibility with popular mobile browsers (Safari, Chrome).
 
 Identify potential risks such as payment processing failures, inventory sync issues, or performance bottlenecks. 
 
-Define risk mitigation strategies (e.g., frequent performance monitoring, secure payment gateway integration). 
+Define risk mitigation strategies (e.g., frequent performance monitoring, secure payment gateway integration).
+
+
+9. Responsibilities 
+
+Testing Team: 
+
+- Test Lead: Oversees testing activities and coordination. 
+
+- Testers: Execute test cases, document results, and report defects. 
