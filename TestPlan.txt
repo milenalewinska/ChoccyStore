@@ -155,8 +155,13 @@ Define risk mitigation strategies (e.g., frequent performance monitoring, secure
 
 9. Responsibilities 
 
-Testing Team: 
+a. Testing Team: 
 
 - Test Lead: Oversees testing activities and coordination. 
 
 - Testers: Execute test cases, document results, and report defects. 
+
+
+b. Stakeholder Communication: 
+
+Regular updates and status reports to project stakeholders. 
