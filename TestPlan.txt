@@ -165,3 +165,10 @@ a. Testing Team:
 b. Stakeholder Communication: 
 
 Regular updates and status reports to project stakeholders. 
+
+
+10. Exit Criteria 
+
+Criteria for determining when testing is complete and the online grocery shopping app is ready for release. 
+
+Example: All critical defects resolved, and app performance meets defined benchmarks. 
