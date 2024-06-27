@@ -172,3 +172,8 @@ Regular updates and status reports to project stakeholders.
 Criteria for determining when testing is complete and the online grocery shopping app is ready for release. 
 
 Example: All critical defects resolved, and app performance meets defined benchmarks. 
+
+
+11. Approval 
+
+Approval and sign-off by project stakeholders and team members. 
