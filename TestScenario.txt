@@ -1,3 +1,5 @@
 Test Scenario
 
 A test scenario, sometimes called a scenario test, is the documentation of a use case. In other words, it describes an action the user may undertake with a website or app. It may also represent a situation the user may find themselves in while using that software or product. 
+
+Test Scenarios are created to ensure that every functionality a website or app offers is working as expected. It is best to gather input from clients, stakeholders, and developers to create accurate test scenarios. This helps effectively cover all possible user scenarios and enables comprehensive testing of all business flows of the software in question. 
