@@ -15,3 +15,10 @@ b. Check if the user can launch the application and check for the sign-up option
 
 c. Verify if the user can log in to the application and explore the screens. 
 
+d. Verify the application has the proper view as per the screen resolutions 
+
+e. Check the functionalities on the screen like the back button, submit, and save button. 
+
+f. Verify for the screen navigations and zoom options. 
+
+g. Check the behavior with an interruption and how the application behaves like a call, SMS alerts, and other application notifications. 
