@@ -22,3 +22,18 @@ e. Check the functionalities on the screen like the back button, submit, and sav
 f. Verify for the screen navigations and zoom options. 
 
 g. Check the behavior with an interruption and how the application behaves like a call, SMS alerts, and other application notifications. 
+
+
+2. Usability Testing 
+
+a. Check by changing the internet options, Wi-Fi, on switching to mobile data. 
+
+b. Check the application performance in different networks like 1G, 2G, 3G, 4G 
+
+c. Check the application behavior in operating systems like android, iOS, and Microsoft  
+
+d. Verify for compatibility on different devices. 
+
+e. Check for readability of the text and if any broken links exist. 
+
+f. Check for the application in low battery mode. 
