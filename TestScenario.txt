@@ -37,3 +37,13 @@ d. Verify for compatibility on different devices.
 e. Check for readability of the text and if any broken links exist. 
 
 f. Check for the application in low battery mode. 
+
+
+3. Compatibility Testing
+
+a. Check the URL in different browsers. 
+
+b. Check the application behavior in operating systems like android, iOS, and Microsoft  
+
+c. Verify for compatibility on different devices. 
+
