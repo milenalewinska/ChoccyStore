@@ -47,3 +47,11 @@ b. Check the application behavior in operating systems like android, iOS, and Mi
 
 c. Verify for compatibility on different devices. 
 
+
+4. Visual Testing 
+
+a. Verify the application has the proper view as per the screen resolutions 
+
+b. Verify if the application supports any screen captures. 
+
+c. Check for alignments and GUI issues. 
