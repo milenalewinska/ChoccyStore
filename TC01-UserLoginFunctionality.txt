@@ -1,4 +1,4 @@
-TC-01: Verify Login Functionality for a User
+TC-01: Valid username and password
 
 1. Objective:
 To ensure that the user login functionality works as expected, allowing registered users to log in successfully and preventing access to unauthorized users.
@@ -9,16 +9,16 @@ To ensure that the user login functionality works as expected, allowing register
 
 4. Preconditions:
 a. The application is up and running.
-b. Test users are registered in the system.
+b. Test user is registered in the system.
 c. The login page is accessible.
 
 5. Test Steps:
 a. Navigate to the login page.
 b. Enter a valid username and password.
-c. Click on the "Login" button.
+c. Click on the "Sign in" button.
 
 6. Expected Result: 
-User should be redirected to the dashboard/home page with a welcome message.
+User should be redirected to the home page with a welcome message.
 
 7. Post-conditions:
 a. User is logged. Main page is visible.
