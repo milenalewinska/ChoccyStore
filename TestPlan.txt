@@ -97,13 +97,23 @@ a. Functional Testing:
 
 - Installation 
 
+- Navigation and Links
+
 - User Registration/Login 
+
+- Forms and Input Fields
+
+- Search Functionality
 
 - Browse Categories and Products 
 
 - Add/Remove Items to/from Cart 
 
 - Place Order and Checkout 
+
+- Images and Videos
+
+- Interactivity
 
 - View Order History and Status 
 
@@ -141,10 +151,94 @@ Check for vulnerabilities such as SQL injection and cross-site scripting (XSS).
 
 e. Compatibility Testing
 
-Test app functionality on different devices and OS versions. 
+- Popular Browsers (Desktop - Mobile):
+. Google Chrome
+. Mozilla Firefox
+. Safari
+. Microsoft Edge
+. Opera
+. Brave
+. Samsung Internet (for Android)
 
-Ensure compatibility with popular mobile browsers (Safari, Chrome). 
+- Popular Operating Systems (Desktop - Mobile):
+. Windows 10
+. macOS Big Sur
+. Linux (Ubuntu, Fedora, etc.)
+. iOS (iPhone, iPad)
+. Android
 
+- Popular Device Types:
+.Desktop Computers
+. Laptops
+. Tablets (iPad, Android tablets)
+. Smartphones (iPhone, Android phones)
+
+- Compatibility with Plugins
+
+- Network Speed
+
+
+f. API Testing
+
+- Request validation
+
+- Response validation
+
+- Error handling and error codes
+
+- Authentication and authorization mechanisms
+
+- Testing different API methods (GET, POST, PUT, DELETE)
+
+- Testing API endpoints and URL structures
+
+- API documentation accuracy and completeness
+
+
+g. Visual Testing
+
+- Logo visibility and consistency
+
+- Images and graphics display and quality
+
+- Navigation menu appearance and functionality
+
+- Pixel-by-pixel differences
+
+- Alignment shifts
+
+- Page layout
+
+- Rendering problems
+
+- Element overlap
+
+- Responsive layout
+
+- Font differences
+
+- Color differences
+
+- Text formatting 
+
+- Header and footer display and consistency
+
+- Error messages and validation notifications visibility
+
+
+h. Accessibility Testing
+
+- Screen readers
+
+- Voice recognition
+
+- Color blindness support
+
+- Proper use of ARIA (Accessible Rich Internet Applications) attributes
+
+- Text resizing and scalable layout for users with low vision
+
+- Video and audio captions or transcripts for multimedia content
 
 8. Risks and Mitigation 
 
