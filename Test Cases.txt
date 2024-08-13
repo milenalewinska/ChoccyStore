@@ -1,0 +1,17 @@
+Test Cases 
+
+1. For Login Page
+
+a. Valid username and password combination successfully logs the user in.
+b. Testing with a username and password containing alphanumeric characters.
+c. Testing with the minimum allowed username and password length.
+d. Testing with the maximum allowed username and password length.
+e. Successful login with the "Remember Me" option selected.
+f. Testing login with a username that contains both uppercase and lowercase characters.
+g. Successful login using a valid phone number as the username.
+h. Successful login using a valid email address as the username.
+i. Testing login with a username that includes special characters (e.g., @, #, $).
+j. Testing login after a password reset to ensure the new password works.
+k. Testing login with different browsers (e.g., Chrome, Firefox, Edge).
+l. Successful login with localization settings (testing with different languages).
+ 
