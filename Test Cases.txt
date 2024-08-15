@@ -15,7 +15,7 @@ Test Cases
 . Testing login with suspended user accounts.
 . Entering a username that does not exist in the system.
 . Entering a password that does not meet password strength requirements.
-. . Entering invalid characters (e.g., scripts) in the username or password fields.
+. Entering invalid characters (e.g., scripts) in the username or password fields.
 . Successful login with the "Remember Me" option selected.
 . Testing login with a username that contains both uppercase and lowercase characters.
 . Successful login using a valid phone number as the username.
@@ -23,5 +23,15 @@ Test Cases
 . Testing login with a username that includes special characters (e.g., @, #, $).
 . Testing login after a password reset to ensure the new password works.
 . Entering invalid characters (e.g., scripts) in the username or password fields.
-. Testing login with different browsers (e.g., Chrome, Firefox, Edge).. Successful login with localization settings (testing with different languages).
- 
+. Testing login with different browsers (e.g., Chrome, Firefox, Edge).. Successful login with     localization settings (testing with different languages).
+. Measure the time it takes to recover from a failed login attempt.
+. Measure and document the average load time for the login page.
+. Measure the impact of login rate limiting on performance.
+. Test the login page's performance on various browsers and devices.
+. Test the login page's performance with slow internet connections.
+. Monitor server resource utilization (CPU, memory, bandwidth) during login attempts.
+. Evaluate the login page's response time during peak usage hours.
+. Evaluate the system's ability to handle high volumes of simultaneous login attempts.
+. Conduct load testing to determine the maximum concurrent user logins the system can handle.
+. Evaluate the impact of CAPTCHA validation on login page performance.
+. 
