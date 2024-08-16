@@ -34,4 +34,16 @@ Test Cases
 . Evaluate the system's ability to handle high volumes of simultaneous login attempts.
 . Conduct load testing to determine the maximum concurrent user logins the system can handle.
 . Evaluate the impact of CAPTCHA validation on login page performance.
-. 
+. Test the security of password reset and account recovery processes.
+. Test for insecure password policies (e.g., weak password requirements).
+. Verify that error messages do not provide too much information about the failure (e.g., "Invalid username" instead of "Invalid username and password").
+. Verify that the login page uses HTTPS to encrypt data transmission.
+. Verify that user passwords are securely hashed and salted in the database.
+. Test for user enumeration vulnerabilities by attempting to determine if a username exists.
+. Verify that the login page does not reveal whether a username exists in the system.
+. Verify that session tokens and cookies are securely generated and stored.
+. Test for Cross-Site Scripting (XSS) vulnerabilities by entering script tags in the login fields.
+. Test for SQL injection vulnerabilities by attempting to inject SQL code into username field.
+. Test for SQL injection vulnerabilities by attempting to inject SQL code into password field.
+. Check for brute force attack protection mechanisms (account lockout, rate limiting).
+. Evaluate the system's compliance with relevant security standards (e.g., OWASP Top Ten).
