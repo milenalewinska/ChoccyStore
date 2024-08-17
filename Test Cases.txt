@@ -3,6 +3,8 @@ Test Cases
 1. For Login Page
 
 . Valid username and password combination successfully logs the user in.
+. Test login with valid credentials on the mobile app's login page.
+. Test login with incorrect credentials on the mobile app's login page
 . ​​Entering an incorrect password for a valid username.
 . Entering an incorrect username for a valid password.
 . Entering an empty username field.
@@ -13,6 +15,7 @@ Test Cases
 . Testing login with incorrect case (uppercase/lowercase) in the username.
 . Testing login with expired or deactivated user accounts.
 . Testing login with suspended user accounts.
+. Verify that the mobile app's login page functions correctly when the device is in airplane mode.
 . Entering a username that does not exist in the system.
 . Entering a password that does not meet password strength requirements.
 . Entering invalid characters (e.g., scripts) in the username or password fields.
@@ -23,12 +26,18 @@ Test Cases
 . Testing login with a username that includes special characters (e.g., @, #, $).
 . Testing login after a password reset to ensure the new password works.
 . Entering invalid characters (e.g., scripts) in the username or password fields.
-. Testing login with different browsers (e.g., Chrome, Firefox, Edge).. Successful login with     localization settings (testing with different languages).
+. Testing login with different browsers (e.g., Chrome, Firefox, Edge).
+. Successful login with localization settings (testing with different languages).
+. Test the login page's layout and elements on different mobile devices (e.g., phones, tablets).
+. Test the performance of the mobile app's login page on different mobile networks (3G, 4G, Wi-Fi).
+. Test the mobile app's login page with different versions of the mobile operating system (e.g., Android, iOS).
+. Test the login page's performance on various browsers and devices.
+. Test the login page's performance with slow internet connections.
+. Verify that the mobile app's login page supports both portrait and landscape orientations.
 . Measure the time it takes to recover from a failed login attempt.
 . Measure and document the average load time for the login page.
 . Measure the impact of login rate limiting on performance.
-. Test the login page's performance on various browsers and devices.
-. Test the login page's performance with slow internet connections.
+. Test the behavior of the mobile app's login page when the device has limited storage space.
 . Monitor server resource utilization (CPU, memory, bandwidth) during login attempts.
 . Evaluate the login page's response time during peak usage hours.
 . Evaluate the system's ability to handle high volumes of simultaneous login attempts.
@@ -37,6 +46,11 @@ Test Cases
 . Test the security of password reset and account recovery processes.
 . Test for insecure password policies (e.g., weak password requirements).
 . Verify that error messages do not provide too much information about the failure (e.g., "Invalid username" instead of "Invalid username and password").
+. Test the "Forgot password?" functionality on the mobile app's login page.
+. Test the behavior of the "Remember Me" option on the mobile app's login page.
+. Test the behavior of the "Stay signed in" option on the mobile app's login page.
+. Verify that the mobile app's login page is responsive to various screen sizes.
+. Test login with multi-factor authentication (MFA) on the mobile app's login page.
 . Verify that the login page uses HTTPS to encrypt data transmission.
 . Verify that user passwords are securely hashed and salted in the database.
 . Test for user enumeration vulnerabilities by attempting to determine if a username exists.
@@ -47,3 +61,5 @@ Test Cases
 . Test for SQL injection vulnerabilities by attempting to inject SQL code into password field.
 . Check for brute force attack protection mechanisms (account lockout, rate limiting).
 . Evaluate the system's compliance with relevant security standards (e.g., OWASP Top Ten).
+. The username and password variables are obtained from user input fields on the login form without any further validation.
+. The SQL query is constructed by concatenating user inputs directly into the query string.
