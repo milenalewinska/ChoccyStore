@@ -1,0 +1,38 @@
+TC-04:  Empty Username Field
+
+1. Objective:
+Verify the login functionality when the username field is left empty.
+This test case checks the behavior of the login page when the user attempts to log in without entering a username in an online chocolate shop's login form.
+
+2. Environment : ChoccyStore application.
+
+3. Version: Demo 1.1.1001
+
+4. Preconditions:
+a. The application is up and running.
+b. User is on the login page of the online chocolate shop.
+c. User is not logged in.
+d. The login page is fully loaded and visible.
+
+5. Test Steps:
+a. Open a web browser and navigate to the online chocolate shop's login page.
+b. Verify that both Username and Password fields are present and visible.
+c. Leave the "Username" field empty.
+d. Enter a valid password into the "Password" field.
+e. Click the Login button or press the "Enter" key.
+f. Observe the page's behavior and UI response after attempting to submit the form.
+
+6. Expected Result: 
+a. Error Message Display: An error message should appear near the Username field (e.g., "Username cannot be empty" or "Please enter your username").
+b. The user should not be logged in.
+
+
+7. Post-conditions:
+a. The user is not logged in.
+b. The page displays an appropriate error message indicating that the username is required.
+
+8. Test Data:
+a. Username:
+b. Password: aJ_5klm@
+
+9. Author: Milena Lewińska
