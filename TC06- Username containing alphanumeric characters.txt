@@ -1,3 +1,35 @@
 TC-06: Username contain alphanumeric characters.
 
-1. Objective:
+1. Objective: Verify that the system accepts a username containing alphanumeric characters.
+
+2. Environment : ChoccyStore application.
+
+3. Version: Demo 1.1.1001
+
+4. Preconditions:
+a. The application is up and running.
+b. User is on the login page of the online chocolate shop.
+c. The login page is fully loaded and visible.
+d. The user has a valid account registered in the online chocolate shop system.
+
+5. Test Steps:
+a. Open a web browser and navigate to the online chocolate shop's login page.
+b. Verify that both Username and Password fields are present and visible.
+c. Click on the "Login" button or link.
+d. Enter the alphanumeric username "TestWrong1" in the "Username" field.
+e. Enter the correct password "aJ_5klm@" in the "Password" field.
+f. Click on the "Login" button.
+
+6. Expected Result: 
+a. The system should accept the alphanumeric username without any errors.
+b. The user should be successfully logged into the system.
+c. The user is redirected to the home page or dashboard.
+
+7. Post-conditions:
+a. The user is successfully logged in and can navigate the online shop.
+
+8. Test Data:
+a. Username: TestWrong1
+b. Password: aJ_5klm@
+
+9. Author: Milena Lewińska
