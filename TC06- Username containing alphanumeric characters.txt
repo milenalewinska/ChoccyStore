@@ -1,0 +1,3 @@
+TC-06: Username contain alphanumeric characters.
+
+1. Objective:
