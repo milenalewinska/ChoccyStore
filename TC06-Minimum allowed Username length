@@ -1,0 +1,40 @@
+TC-06: Minimum allowed Username length  
+
+1. Objective:
+To verify that the system allows a user to register using the minimum allowed username length and displays appropriate error or success messages based on the input.
+
+2. Environment : ChoccyStore application.
+
+3. Version: Demo 1.1.1001
+
+4. Preconditions:
+a. The application is up and running.
+b. User is on the login page of the online chocolate shop.
+c. User is not logged in.
+d. The login page is fully loaded and visible.
+e. The minimum allowed username length is assumed to be defined in the requirements (5 characters).
+
+5. Test Steps:
+a. Open a web browser and navigate to the online chocolate shop's login page.
+b. Verify that both Username and Password fields are present and visible.
+c. Enter "Test1" as the username (minimum length allowed).
+d. Enter a valid password.
+e. Confirm the password by re-entering it in the confirmation field.
+f. Fill in all other required fields (address, phone number).
+g. Click the Login button or press the "Enter" key.
+h. Observe the page's behavior and UI response after attempting to submit the form.
+
+6. Expected Result: 
+a. The system should accept the username with a length of 5 characters.
+b. The user should be successfully registered and redirected to the homepage or a confirmation page.
+c. A success message like “Registration successful” should be displayed.
+
+
+7. Post-conditions:
+a. The new user is registered and should now be able to log in using their credentials.
+
+8. Test Data:
+a. Username: Test1
+b. Password: aJ_5klm@
+
+9. Author: Milena Lewińska
