@@ -1,0 +1,37 @@
+
+TC-10: Username that does not exist in the system.
+
+1. Objective:
+This test case verifies that when a user tries to log in using a username that does not exist in the system, the application shows an appropriate error message.
+
+2. Environment : ChoccyStore application.
+
+3. Version: Demo 1.1.1001
+
+4. Preconditions:
+a. The application is up and running.
+b. User is on the login page of the chocolate online shop.
+c. No account exists with the entered username.
+
+5. Test Steps:
+a. Open a web browser and navigate to the online chocolate shop's login page.
+b. Enter a non-existent username (Nonexistentuser123) in the username field.
+c. Enter any password.
+d. Click the Login button or press the "Enter" key.
+
+
+6. Expected Result: 
+a. The login page is displayed.
+b. The system processes the login attempt.
+c. An error message should be displayed, such as: "Username does not exist." or "Invalid username or password."
+
+
+7. Post-conditions:
+a. The user is not logged in.
+b. The login page remains available for a new login attempt.
+
+8. Test Data:
+a. Username: Nonexistentuser12
+b. Password: aJ_5klm@
+
+9. Author: Milena Lewińska
