@@ -1,0 +1,37 @@
+TC-08: Login with excessive length Username
+
+1. Objective:
+Validate login functionality when a username exceeds the allowed length.
+
+2. Environment : ChoccyStore application.
+
+3. Version: Demo 1.1.1001
+
+4. Preconditions:
+a. The application is up and running.
+b. User is on the login page of the chocolate online shop.
+c. Valid credentials (username and password) are set up in the database for testing.
+
+5. Test Steps:
+a. Open a web browser and navigate to the online chocolate shop's login page.
+b. In the "Username" field, enter a Username with 70 characters.
+c. Enter "Test!11111111111111111111111111111111111111111111111111111111111111111" as the username 
+d. Enter a valid password.
+e. Click the Login button or press the "Enter" key.
+
+
+6. Expected Result: 
+a. The application should not allow submitting the form if the username exceeds the allowed length.
+b. The user should be successfully registered and redirected to the homepage or a confirmation page.
+c. An error message should be displayed, such as: "Username exceeds the maximum length of 50 characters.
+
+
+7. Post-conditions:
+a. The User remains on the login page without access to their account.
+b. Error handling mechanisms are properly triggered for input validation.
+
+8. Test Data:
+a. Username: Test!11111111111111111111111111111111111111111111111111111111111111111
+b. Password: aJ_5klm@
+
+9. Author: Milena Lewińska
