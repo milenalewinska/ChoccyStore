@@ -1,0 +1,36 @@
+TC-11:Invalid Characters in Username Field
+
+1. Objective:
+This test case verifies that the system handles invalid characters in the username field appropriately.
+
+2. Environment : ChoccyStore application.
+
+3. Version: Demo 1.1.1001
+
+4. Preconditions:
+a. The application is up and running.
+b. User is on the login page of the chocolate online shop.
+c. The system has validation rules for the username field.
+
+5. Test Steps:
+a. Open a web browser and navigate to the online chocolate shop's login page.
+b. Enter a Username (Test1#) in the username field.
+c. Enter a password.
+d. Click the Login button or press the "Enter" key.
+
+
+6. Expected Result: 
+a. The login page is displayed.
+b. The system should reject the username with invalid characters (e.g., special characters like !, @, #).
+c. An error message should be displayed, such as: "Invalid username: special characters are not allowed."
+d. The user should not be allowed to log in.
+
+
+7. Post-conditions:
+a. The user is not logged in.
+
+8. Test Data:
+a. Username: Test1#
+b. Password: aJ_5klm@
+
+9. Author: Milena Lewińska
