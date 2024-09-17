@@ -63,3 +63,24 @@ Test Cases
 . Evaluate the system's compliance with relevant security standards (e.g., OWASP Top Ten).
 . The username and password variables are obtained from user input fields on the login form without any further validation.
 . The SQL query is constructed by concatenating user inputs directly into the query string.
+
+
+2. Search Functionality:
+. Verify that users can search for specific records in the database.
+. Verify that the application displays the query results correctly.
+. Verify that the application displays an error message when no matches are found.
+. Test product search using valid keywords.
+. Verify that the search result page displays products.
+. Test searching with misspelled keywords and check for suggestions.
+. Verify that empty search fields provide a proper message.
+. Test searching with special characters in the query.
+. Check for case insensitivity in search queries.
+. Verify that advanced search filters work as expected.
+. Test search with a combination of filters.
+. Ensure that the search bar is present on all pages.
+. Test searching for out-of-stock products.
+. Verify that the search bar works on mobile devices.
+. Test the responsiveness of the search results page.
+. Check if the search functionality respects user permissions.
+. Test search with a very long query string.
+. Verify that the "Clear" button in search filters works.
