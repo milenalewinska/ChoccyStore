@@ -84,3 +84,21 @@ Test Cases
 . Check if the search functionality respects user permissions.
 . Test search with a very long query string.
 . Verify that the "Clear" button in search filters works.
+
+
+3. Product Catalog
+. Verify that all product categories are listed.
+. Test filtering products by category.
+. Verify that product images are displayed correctly.
+. Test the accuracy of product descriptions.
+. Verify that prices are correctly displayed.
+. Test sorting products by price.
+. Check for product availability indicators.
+. Test the "New Arrivals" section for accuracy.
+. Verify that product ratings are displayed.
+. Test the product comparison feature.
+. Check for related product recommendations.
+. Test the "Quick View" feature for product details.
+. Verify that the catalog page loads within an acceptable time.
+. Test the responsiveness of the catalog page.
+. Check for accessibility of product information for screen readers.
