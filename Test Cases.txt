@@ -65,7 +65,8 @@ Test Cases
 . The SQL query is constructed by concatenating user inputs directly into the query string.
 
 
-2. Search Functionality:
+2. Search Functionality
+
 . Verify that users can search for specific records in the database.
 . Verify that the application displays the query results correctly.
 . Verify that the application displays an error message when no matches are found.
@@ -87,6 +88,7 @@ Test Cases
 
 
 3. Product Catalog
+
 . Verify that all product categories are listed.
 . Test filtering products by category.
 . Verify that product images are displayed correctly.
@@ -102,3 +104,22 @@ Test Cases
 . Verify that the catalog page loads within an acceptable time.
 . Test the responsiveness of the catalog page.
 . Check for accessibility of product information for screen readers.
+
+
+4. Shopping Cart
+
+. Test adding a product to the shopping cart.
+. Verify that the cart icon updates with the item count.
+. Test removing a product from the cart.
+. Verify that the cart total is correctly calculated.
+. Test updating the quantity of items in the cart.
+. Check for proper validation of quantity input.
+. Verify that discounts and coupons are applied correctly.
+. Test the "Continue Shopping" button in the cart.
+. Verify that the "Proceed to Checkout" button works.
+. Test cart persistence across user sessions.
+. Check for a confirmation message after adding/removing items.
+. Test cart functionality with both registered and guest users.
+. Verify that the cart is emptied after the order is placed.
+. Test cart interactions on mobile devices.
+. Check for security measures to prevent cart manipulation.
