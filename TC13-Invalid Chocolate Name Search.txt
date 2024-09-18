@@ -1,0 +1,25 @@
+TC-13: Invalid Chocolate Name Search
+
+1. Objective:
+This test case verifies that User searches for a non-existent chocolate name.
+
+2. Environment : ChoccyStore application.
+
+3. Version: Demo 1.1.1001
+
+4. Preconditions:
+a. The application is up and running.
+b. The chocolate name is not present in the database.
+
+5. Test Steps:
+a. Open a web browser and navigate to the online chocolate shop's login page.
+b. Navigate to the search bar.
+c. Enter an invalid or made-up chocolate name, "Unicorn Chocolate."
+d. Press the "Search" button or hit "Enter."
+
+
+6. Expected Result: 
+a. A message saying "No results found for 'Unicorn Chocolate'" is displayed.
+
+
+7. Author: Milena Lewińska
