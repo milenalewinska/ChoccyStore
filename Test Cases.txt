@@ -157,3 +157,18 @@ Test Cases
 . Verify that users receive payment receipts.
 . Test payment processing on different browsers.
 . Verify the encryption of payment data for security.
+
+6. Shipping And Delivery
+
+. Verify that the shipping address entered by the user is validated for accuracy and completeness.
+. Test entering an incomplete or invalid shipping address to ensure it's rejected.
+. Test the selection of different shipping methods during checkout (e.g., standard, express).
+. Verify that the estimated delivery dates for each option are accurate.
+. Test the accurate calculation of shipping costs based on the chosen shipping method and destination.
+. Verify that shipping costs are displayed clearly to the user during checkout.
+. Test the functionality to track the status and location of a shipped order.
+. Verify that users receive tracking information and updates via email or SMS.
+. Test the system's ability to send notifications to users when their package is out for delivery.
+. Verify that users receive notifications upon successful delivery.
+. Test the ability to process and track international shipments, including customs documentation.
+. Verify that users are informed of any additional import duties or taxes.
