@@ -65,7 +65,8 @@ Test Cases
 . The SQL query is constructed by concatenating user inputs directly into the query string.
 
 
-2. Search Functionality:
+2. Search Functionality
+
 . Verify that users can search for specific records in the database.
 . Verify that the application displays the query results correctly.
 . Verify that the application displays an error message when no matches are found.
@@ -87,6 +88,7 @@ Test Cases
 
 
 3. Product Catalog
+
 . Verify that all product categories are listed.
 . Test filtering products by category.
 . Verify that product images are displayed correctly.
@@ -102,3 +104,56 @@ Test Cases
 . Verify that the catalog page loads within an acceptable time.
 . Test the responsiveness of the catalog page.
 . Check for accessibility of product information for screen readers.
+
+
+4. Shopping Cart
+
+. Test adding a product to the shopping cart.
+. Verify that the cart icon updates with the item count.
+. Test removing a product from the cart.
+. Verify that the cart total is correctly calculated.
+. Test updating the quantity of items in the cart.
+. Check for proper validation of quantity input.
+. Verify that discounts and coupons are applied correctly.
+. Test the "Continue Shopping" button in the cart.
+. Verify that the "Proceed to Checkout" button works.
+. Test cart persistence across user sessions.
+. Check for a confirmation message after adding/removing items.
+. Test cart functionality with both registered and guest users.
+. Verify that the cart is emptied after the order is placed.
+. Test cart interactions on mobile devices.
+. Check for security measures to prevent cart manipulation.
+
+5. The Checkout Process
+
+. Verify that the checkout process starts from the cart.
+. Test selecting a shipping address during checkout.
+. Verify that users can add/edit shipping addresses.
+. Test selecting a payment method.
+. Verify that users can add/edit payment methods.
+. Test the application of discounts and coupons.
+. Verify the order summary and item details on the checkout page.
+. Test the "Place Order" button functionality.
+. Verify the display of order confirmation details.
+. Test the "Continue Shopping" option after checkout.
+. Verify that taxes and shipping costs are accurately calculated.
+. Test the ability to review and edit the order before placing it.
+. Verify that the checkout process remains secure.
+. Test the responsiveness of the checkout page.
+. Check for accessibility of checkout steps for users with disabilities.
+. Test payment processing using valid credit card details.
+. Verify that the payment gateway processes transactions successfully.
+. Test payment processing with an invalid credit card number.
+. Verify the handling of declined payments.
+. Test payment using alternative methods (e.g., PayPal, Apple Pay).
+. Verify that payment confirmation emails are sent.
+. Test payment processing with international currencies.
+. Verify that the billing address matches the payment details.
+. Test payment processing while changing the payment method.
+. Verify the behavior of the payment gateway during high traffic.
+. Test payment processing on mobile devices.
+. Check for security measures like CVV validation.
+. Test the cancellation of payment during the checkout process.
+. Verify that users receive payment receipts.
+. Test payment processing on different browsers.
+. Verify the encryption of payment data for security.
