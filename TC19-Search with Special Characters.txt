@@ -1,0 +1,26 @@
+TC-18: Search with Special Characters
+
+1. Objective:
+This test case verifies that User enters special characters in the search field which is ignored by system.
+
+2. Environment : ChoccyStore application.
+
+3. Version: Demo 1.1.1001
+
+4. Preconditions:
+a. The application is up and running.
+b. Chocolate names don’t contain special characters, or special characters are ignored in search.
+
+5. Test Steps:
+a. Open a web browser and navigate to the online chocolate shop's login page.
+b. Navigate to the search bar.
+c. Enter a name like "Milk-Chocolate!" (with special characters).
+d.  Press the "Search" button or hit "Enter."
+
+
+6. Expected Result: 
+a. The search function ignores special characters and returns chocolates matching "Milk Chocolate."
+
+
+
+7. Author: Milena Lewińska
