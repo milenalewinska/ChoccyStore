@@ -1,0 +1,25 @@
+TC-17: Search by Substring in the Middle of the Chocolate Name
+
+1. Objective:
+This test case verifies that User searches using part of a word from the middle of the chocolate name.
+
+2. Environment : ChoccyStore application.
+
+3. Version: Demo 1.1.1001
+
+4. Preconditions:
+a. The application is up and running.
+b. Chocolate names contain substrings "almond".
+
+5. Test Steps:
+a. Open a web browser and navigate to the online chocolate shop's login page.
+b. Navigate to the search bar.
+c. Enter "almond" in the search bar.
+d.Press the "Search" button or hit "Enter."
+
+
+6. Expected Result: 
+a. Chocolates containing "almond" in their names ( e.g. "Dark Chocolate with Almonds", "Milk Chocolate with Almonds" ) should appear.
+
+
+7. Author: Milena Lewińska
