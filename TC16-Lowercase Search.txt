@@ -1,7 +1,7 @@
-TC-15: Uppercase Search
+TC-16: Uppercase Search
 
 1. Objective:
-This test case verifies that User searches with upper case for the chocolate name.
+This test case verifies that User searches with lower case for the chocolate name.
 
 2. Environment : ChoccyStore application.
 
@@ -11,11 +11,10 @@ This test case verifies that User searches with upper case for the chocolate nam
 a. The application is up and running.
 b. Chocolate names exist, and search should be case-insensitive.
 
-
 5. Test Steps:
 a. Open a web browser and navigate to the online chocolate shop's login page.
 b. Navigate to the search bar.
-c. Enter "DARK CHOCOLATE".
+c. Enter "dark chocolate".
 d. Press the "Search" button or hit "Enter".
 
 
