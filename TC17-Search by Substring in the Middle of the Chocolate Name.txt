@@ -15,7 +15,7 @@ b. Chocolate names contain substrings "almond".
 a. Open a web browser and navigate to the online chocolate shop's login page.
 b. Navigate to the search bar.
 c. Enter "almond" in the search bar.
-d.Press the "Search" button or hit "Enter."
+d. Press the "Search" button or hit "Enter."
 
 
 6. Expected Result: 
