@@ -1,4 +1,4 @@
-TC-08: Login with excessive length Username
+TC-09: Login with excessive length Username
 
 1. Objective:
 Validate login functionality when a username exceeds the allowed length.
@@ -15,7 +15,7 @@ c. Valid credentials (username and password) are set up in the database for test
 5. Test Steps:
 a. Open a web browser and navigate to the online chocolate shop's login page.
 b. In the "Username" field, enter a Username with 70 characters.
-c. Enter "Test!11111111111111111111111111111111111111111111111111111111111111111" as the username 
+c. Enter "Test111111111111111111111111111111111111111111111111111111111111111111" as the username 
 d. Enter a valid password.
 e. Click the Login button or press the "Enter" key.
 
@@ -31,7 +31,7 @@ a. The User remains on the login page without access to their account.
 b. Error handling mechanisms are properly triggered for input validation.
 
 8. Test Data:
-a. Username: Test!11111111111111111111111111111111111111111111111111111111111111111
+a. Username: Test111111111111111111111111111111111111111111111111111111111111111111
 b. Password: aJ_5klm@
 
 9. Author: Milena Lewińska
