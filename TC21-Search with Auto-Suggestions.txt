@@ -1,0 +1,25 @@
+TC-21: Search with Auto-Suggestions
+
+1. Objective:
+This test case verifies that User starts typing a chocolate name and receives search suggestions.
+
+2. Environment : ChoccyStore application.
+
+3. Version: Demo 1.1.1001
+
+4. Preconditions:
+a. The application is up and running.
+b. The system provides auto-suggestions as the user types.
+
+5. Test Steps:
+a. Open a web browser and navigate to the online chocolate shop's login page.
+b. Navigate to the search bar.
+c. Start typing "dark".
+d. Observe if auto-suggestions (e.g., "Dark Chocolate",) appear.
+
+
+6. Expected Result: 
+a. A dropdown with relevant chocolate suggestions is displayed as the user types.
+
+
+7. Author: Milena Lewińska

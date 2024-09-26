@@ -1,4 +1,4 @@
-TC-18: Search with Special Characters
+TC-19: Search with Special Characters
 
 1. Objective:
 This test case verifies that User enters special characters in the search field which is ignored by system.
@@ -20,7 +20,6 @@ d.  Press the "Search" button or hit "Enter."
 
 6. Expected Result: 
 a. The search function ignores special characters and returns chocolates matching "Milk Chocolate."
-
 
 
 7. Author: Milena Lewińska

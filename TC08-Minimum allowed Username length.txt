@@ -1,4 +1,4 @@
-TC-06: Minimum allowed Username length  
+TC-08: Minimum allowed Username length  
 
 1. Objective:
 To verify that the system allows a user to register using the minimum allowed username length and displays appropriate error or success messages based on the input.
